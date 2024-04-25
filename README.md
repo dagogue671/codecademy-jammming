@@ -1,7 +1,7 @@
 # Jammming Project from Codecademy
 
 ## Description:
-In this project, you will build a React web application called Jammming. You will use your knowledge of React components, passing state, and requests with the Spotify API to build a website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
+My version of the Codecademy project Jammming. This project uses the React framework with JSX components, alongside using APIs and interpreting the JSON data to add inside the App.
 
 ## Example Project
 ![](https://static-assets.codecademy.com/Courses/react/projects/previews/jamming-project-four-three-preview.gif)
